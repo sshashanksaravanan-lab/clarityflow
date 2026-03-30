@@ -2,10 +2,10 @@
 ClarityFlow v1 - db stuff (SQLite)
 
 Notes:
-- goal is a rough working v1, not perfect architecture
-- tasks table holds the schema fields (title, due date, load, etc)
+- Striving for a rough but WORKING v1, not perfect architecture
+- tasks table holds the schema fields (title, due date, load,etc)
 - dependencies table is just edges: task -> prerequisite
-- insights are deterministic (no AI), based on rules
+- insights are deterministic (no additional AI API, like AURA), based on rules
 
 If something is missing (like due_date), I just report it in missing_data_report().
 
