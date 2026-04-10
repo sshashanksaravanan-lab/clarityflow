@@ -1,0 +1,7 @@
+FastAPI Tutorial / User Guide: used for route structure, request handling, and automatic API documentation. https://fastapi.tiangolo.com/tutorial/￼  ￼
+
+FastAPI Path Parameters: used for endpoint patterns such as /tasks/{task_id} and route configuration. https://fastapi.tiangolo.com/tutorial/path-params/￼  ￼
+
+Python SQLite3 documentation: used for database connection, queries, and SQLite usage through Python’s standard library. https://docs.python.org/3/library/sqlite3.html￼  ￼
+
+Uvicorn Settings documentation: used for running the app locally and configuring the development server with reload. https://www.uvicorn.org/settings/￼  ￼
