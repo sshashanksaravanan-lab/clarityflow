@@ -1,4 +1,4 @@
-# clarityflow
+# ClarityFlow
 ClarityFlow: a schema-driven productivity prototype focused on transparent task sensemaking and inspectable rule-based insights.
 
 # ClarityFlow v1
